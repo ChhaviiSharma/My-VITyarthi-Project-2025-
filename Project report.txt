@@ -1,0 +1,94 @@
+NAME - Chhavi Sharma
+REGISTRATION NUMBER - 25BCE10242
+PROJECT TOPIC - Banking and Money Management System 
+LANGUAGE USED - Python
+
+INTRODUCTION - It tells about the loan system of the banking sector . How can a person apply for loan and criteria to be fulfilled to be eligible for taking loan . Documents are mentioned which the customer need to submit while taking loan . The customer need to input details such as principal money , time period and rate of interest on the principal amount . At last total money to be repaid will be generated . It is also divided into monthly installments
+which needs to be repaid in two years .
+
+PROBLEM STATEMENT - 
+1.When we need to take loan we need to calculate simple interest on it , this program will help you to calculate simple interest within minutes .
+2.Input will be taken from the user and then the program will run and calculate the simple interest and then it will tell you the total amount to be repaid .It will also divide the total amount to be repaid into monthly instalments for two years.
+3.It makes calculation easy and time saving for the bank which is giving loan to the customers .
+
+FUNCTIONAL REQUIREMENTS -
+Here are the things the system can do-
+1.Tells about the details of the customer with the help of account number.
+2.Provide the eligibility criteria for taking loan .
+3.Gives space to the user to input details about principal amount , rate of interest , time period of loan .
+4.Calculates the simple interest on the amount.
+5.Divides the total amount to be repaid into monthly installments for two months .
+
+NON FUNCTIONAL REQUIREMENTS -
+1.Scalability-Handles large number calculations .
+2.Reliability-Accurate and consistent results .
+3.Performance-Fast data processing .
+4.Maintainability-Modular code structure .
+5.Portability-Works on any system with python .
+
+SYSTEM ARCHITECTURE -
+The project is divided followingly -
+1.Dictionary : It has information of the customers of the bank .
+2.Inputs : It takes input from the user and helps to calculate simple interest .
+3.Print : It prints the final amount to be repaid monthly for two years .
+
+DESIGN DIAGRAM -
+1.Start
+2.Firstly we enter the account number of the user and that 
+will give details about that user such as name, balance, account 
+type, pending loans, documents of the user.
+3.Then we will check whether the account is applicable for 
+taking loan or not by asking about pending loans.
+4.If the account holder is applicable then we will ask them about 
+the required documents such as ITR statement, credit score and 
+a government ID.
+5.After this will take input from the user about the principal 
+amount for the loan, the time period and the rate of interest .
+6.The program will calculate the simple interest and the the 
+amount to be repaid. It will also divide the total amount to be 
+repaid per month for two years.
+7.Stop
+
+TESTING APPROACH -
+1.Input valid account number .
+2.Correct information should be displayed .
+3.Simple interest calculation verification.
+4.Checking final monthly installments .
+
+CHALLENGES FACED -
+1.Handling invalid account numbers.
+2.Managing inputs given by the user .
+3.Calculation using inputs.
+
+LEARNING AND KEY TAKEAWAYS -
+1.Donot write useless codes.
+2.Add comments to the code to make it more easily understandable .
+
+FUTURE ENHANCEMENTS -
+1.Adding compound interest .
+2.Adding automatic rate of interest computing statement .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
