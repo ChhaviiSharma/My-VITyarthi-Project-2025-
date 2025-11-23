@@ -1,0 +1,9 @@
+PROBLEM STATEMENT -
+Talks about banking and money management and the procedure of taking loan .Carries the loan taking procedure and allows the user to take input and calculate the simple interest on the principal amount stated by the user .
+
+SCOPE OF THE PROJECT -
+To educate the user about the procedure which is followed while taking loan . It allows the user to customise the loan details such as principal amount , rate of interest , time period for the loan and further calculate the simple interest on the principal amount.
+
+TARGET USER -
+Banks who want to provide loan to their customers are primary users of this . It will help them to simplify the loan calculation and its calculates simple interest within seconds. 
+
