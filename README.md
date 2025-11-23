@@ -1,7 +1,7 @@
 # My-VITyarthi-Project-2025-
 Banking And Money Management System
 
-This is my Vityarthi project designed to take input from the user . It tells about the banking and money management system and focus on the process of taking loan from the bank .S
+This is my Vityarthi project designed to take input from the user . It tells about the banking and money management system and focus on the process of taking loan from the bank .
 The algorithm of the project is given below :
 
 1.Start
