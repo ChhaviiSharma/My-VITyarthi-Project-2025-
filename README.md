@@ -30,7 +30,12 @@ STEPS TO INSTALL AND RUN THE PROJECT -
 
 INSTRUCTIONS FOR TESTING -
 1.Enter all the details the code ask for.
-2.Donot skip any step otherwise it will show error.
+2.Donot skip any <img width="1831" height="837" alt="Screenshot 2025-11-22 223349" src="https://github.com/user-attachments/assets/0740e35e-d3eb-49d0-850b-44ab16841c3b" />
+<img width="1572" height="540" alt="Screenshot 2025-11-22 222908" src="https://github.com/user-attachments/assets/e9c2d024-5a32-4495-831a-f9877a6324e1" />
+<img width="1661" height="570" alt="Screenshot 2025-11-22 222841" src="https://github.com/user-attachments/assets/a0a24fcc-c1c0-4bab-8925-b34d02de5bbe" />
+<img width="1601" height="569" alt="Screenshot 2025-11-22 222803" src="https://github.com/user-attachments/assets/4fb042d0-86e5-41e3-a9c0-3b75ca52b194" />
+<img width="1658" height="574" alt="Screenshot 2025-11-22 222744" src="https://github.com/user-attachments/assets/702b1558-ce66-47ea-8a8c-213f53fedd16" />
+step otherwise it will show error.
 3.Read the code carefully and follow each step line wise .
 
  
