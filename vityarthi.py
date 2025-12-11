@@ -8,14 +8,14 @@ Accounts = {
         "Documents_attached":["Aadhar card","Ration card"]
     },
     "654654654":{
-        "Name of the account holder":"Evansh Khanna",
+        "Name of the account holder":"Devansh Garg",
         "Balance":"70000",
         "Account_type":"saving",
         "Pending_loans":"Education_loan",
         "Documents_attached":["Aadhar card","Passport"]
     },
     "987987987":{
-        "Name of the account holder":"Krishank Sharma",
+        "Name of the account holder":"Chirag Kunvar",
         "Balance":"34500", "Account_type":"salary",
         "Pending_loans":"House_loan",
         "Documents_attached":"Pan card"
@@ -77,3 +77,4 @@ if Loan_stat == 'YES' :
 
 
     
+
